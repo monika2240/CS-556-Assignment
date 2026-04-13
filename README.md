@@ -1,4 +1,4 @@
-CS 556 Assignment – Network Switch Scheduling
+**CS 556 Assignment – Network Switch Scheduling**
 
 Name: Challagondla Monika
 Roll No: 220101029
