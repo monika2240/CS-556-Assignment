@@ -18,9 +18,7 @@ No installation needed if using Google Colab.
 If running locally:
 pip install matplotlib
 
-
 🔹 Step 1: Open Colab
-
 Go to  https://colab.research.google.com
 
 🔹 Step 2: Upload Notebook
@@ -30,19 +28,23 @@ OR
 Open directly from GitHub:
 File → Open notebook → GitHub tab
 Paste repo link
+
 🔹 Step 3: Run All Cells
 Click Runtime → Run all
 OR press Ctrl + F9
+
 🔹 Step 4: View Output
 Console will show:
 Packet transmissions
 Matching sequences
 Service time
+
 🔹 Step 5: View Graphs
 Two graphs will be generated:
 Total Service Time Comparison
 Backlog over Time
-📂 Project Structure
+
+Project Structure
 CS-556-Assignment/
 │
 ├── fifo.ipynb
