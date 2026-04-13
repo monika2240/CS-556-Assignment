@@ -39,7 +39,7 @@ Packet transmissions
 Matching sequences
 Service time
 
-🔹 Step 5: View Graphs
+🔹 Step 5: 
 Two graphs will be generated:
 Total Service Time Comparison
 Backlog over Time
